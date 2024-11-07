@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI-ML.
 
 - 📫 How to reach me  - through linkedIn by...https://www.linkedin.com/in/minakshi-kaushik-491487327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-- 😄 Pronouns: She..
+- 😄 Pronouns: She
 
 
 <!---
