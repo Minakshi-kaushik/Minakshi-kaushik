@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a second-year **B.Tech student in Artificial Intelligence and Machine Learning** with a strong academic record (**CGPA: 9.69**) and a deep interest in solving real-world problems using **data, code, and creativity**.
+I'm a second-year **B.Tech student in Computer Science and Engineering** with a strong academic record (**CGPA: 9.69**) and a deep interest in solving real-world problems using **data, code, and creativity**.
 
 I enjoy working at the intersection of **technology, strategy, and innovation** — whether it's building intelligent web apps, analyzing complex datasets, or designing AI-driven solutions.
 
