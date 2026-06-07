@@ -1,6 +1,6 @@
 # Hi, I'm Minakshi Kaushik 👋
 
-### 🎓 B.Tech Computer Science & Engineering Student | 📊 Data Science & Analytics Enthusiast | 🤖 AI & Computer Vision Explorer
+### 🎓 B.Tech CSE @ IGDTUW | 📊 Data Science & Analytics Enthusiast | 🤖 AI & Computer Vision Explorer
 
 <p align="left">
   <a href="https://github.com/Minakshi-kaushik">
