@@ -1,90 +1,219 @@
+# Hi, I'm Minakshi Kaushik 👋
 
-<h1 align="center">Hi, I'm Minakshi 👋</h1>
-<p align="center">
-  🎓 B.Tech AI & ML | 📊 Aspiring Data Analyst | 💻 Full Stack Web Developer (in progress) | 🤖 Generative AI Explorer
+### 🎓 B.Tech Computer Science & Engineering Student | 📊 Data Science & Analytics Enthusiast | 🤖 AI & Computer Vision Explorer
+
+<p align="left">
+  <a href="https://github.com/Minakshi-kaushik">
+    <img src="https://komarev.com/ghpvc/?username=Minakshi-kaushik&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-I'm a second-year **B.Tech student in Computer Science and Engineering** with a strong academic record (**CGPA: 9.69**) and a deep interest in solving real-world problems using **data, code, and creativity**.
+I am a Computer Science & Engineering student passionate about building practical solutions using **Data Science, Analytics, Machine Learning, Computer Vision, and Artificial Intelligence**.
 
-I enjoy working at the intersection of **technology, strategy, and innovation** — whether it's building intelligent web apps, analyzing complex datasets, or designing AI-driven solutions.
+I enjoy transforming raw data into meaningful insights, developing intelligent systems, and solving real-world problems through technology.
 
----
-
-### 🚀 Current Focus Areas
-
-- 📊 **Data Analytics & Visualization**  
-- 🧠 **Machine Learning & Predictive Modeling**  
-- 🔨 **Full Stack Web Development (MERN Stack)**  
-- 🤖 **Generative AI & Prompt Engineering**  
-- 🧮 **Data Structures & Algorithms (DSA)**
+Currently, I am gaining hands-on experience through industry internships, analytics projects, machine learning applications, and dashboard development while continuously strengthening my programming and problem-solving skills.
 
 ---
 
-### 🧪 Practical Experience
+## 🚀 Current Work
 
-#### 📌 Tata iQ Virtual Experience Program (Forage)
-
-I recently completed a simulation with **Tata iQ**, where I:
-
-- Developed an **AI-powered strategy** to predict and reduce **customer credit delinquency**
-- Utilized **GenAI tools** like ChatGPT and Google Gemini in a practical business setting
-- Built skills in **data analysis, predictive modeling**, and **responsible AI**
-- Experienced the decision-making mindset of a data analytics team in an AI consulting role
-
-💡 This experience strengthened my passion for **data-driven business problem-solving**, and I'm eager to apply these insights in real-world analytics teams.
+- 📊 Data Science Intern at Elevance Skills
+- 📈 Data Analyst Intern at Bluestock Fintech
+- 📉 Mutual Fund Analytics & Dashboard Development
+- 🤖 Emotion-Aware Attendance System using Computer Vision
+- 📊 Power BI Dashboard Development
+- 🧠 Machine Learning & Deep Learning
+- 💻 Data Structures & Algorithms
 
 ---
 
-### 🛠️ Technical Skills
+## 💼 Internship Experience
 
-#### Languages & Libraries  
-`Python` · `C++` · `JavaScript` · `HTML` · `CSS` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn`
+### 📊 Data Science Intern — Elevance Skills
 
-#### Web & Development Tools  
-`React.js` · `Node.js` · `Express.js` · `MongoDB` · `EJS` · `Git` · `GitHub` · `VS Code` · `Linux`
+- Developed an Emotion-Aware Attendance System using Computer Vision and Deep Learning.
+- Built modules for Face Detection, Face Recognition, Emotion Detection, and Attendance Automation.
+- Implemented attendance logging with timestamps and emotion tracking.
+- Worked on model training, evaluation, testing, and project documentation.
 
-#### AI & Data  
-`Generative AI` · `Machine Learning` · `Prompt Engineering` · `Data Visualization` · `Predictive Modeling`
+### 📈 Data Analyst Intern — Bluestock Fintech
 
----
-
-### 📂 Featured Projects
-
-- 🔍 **Credit Risk Analytics** (Tata iQ) – AI-powered credit delinquency prediction  
-- 📝 **Blog Web App** – Full-stack app using Node.js, Express, and EJS  
-- 🤖 **Prompt Engineering Playground** – Testing GenAI models in practical use cases  
-- 📊 **Business Data Dashboards** *(coming soon)* – Interactive Tableau/Power BI dashboards
+- Working on Mutual Fund Analytics and Financial Data Analysis.
+- Performing Data Cleaning, EDA, and Feature Analysis.
+- Building Power BI Dashboards and Visual Reports.
+- Generating actionable business insights from financial datasets.
 
 ---
 
-### 💼 Professional Qualities
+## 🛠️ Technical Skills
 
-- 🔍 Analytical & Detail-Oriented  
-- 🗣️ Strong Communication Skills  
-- 🤝 Team Collaboration & Leadership (Moderated academic events)  
-- 🔄 Adaptable, Curious & Self-Motivated
+### Programming Languages
+
+- Python
+- C++
+- SQL
+- JavaScript
+- HTML
+- CSS
+
+### Data Science & Machine Learning
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- TensorFlow
+- Keras
+- OpenCV
+
+### Data Analytics
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Data Visualization
+- Business Analytics
+- Financial Analytics
+
+### Dashboarding & Business Intelligence
+
+- Power BI
+- Tableau
+- Microsoft Excel
+- KPI Reporting
+- Interactive Dashboards
+- Data Storytelling
+
+### Development Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Linux
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minakshi-kaushik&show_icons=true&theme=tokyonight&cache_seconds=1800" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minakshi-kaushik&layout=compact&theme=tokyonight&cache_seconds=1800" width="47%" />
+### 🤖 Emotion-Aware Attendance System
+
+**Computer Vision | Deep Learning | OpenCV | TensorFlow**
+
+- CNN-based Emotion Detection
+- Face Recognition using OpenCV LBPH
+- Real-Time Face Detection
+- Attendance Automation
+- Present/Absent Tracking
+- Emotion Logging with Timestamp
+- CSV-Based Reporting System
+
+---
+
+### 📊 Mutual Fund Analytics Dashboard
+
+**Power BI | Data Analytics | Financial Analysis**
+
+- Mutual Fund Performance Analysis
+- Risk vs Return Evaluation
+- Category-Wise Fund Comparison
+- KPI Monitoring Dashboard
+- Interactive Business Intelligence Reports
+- Data-Driven Investment Insights
+
+---
+
+### 🍳 AI Recipe Generator
+
+**Generative AI | Python**
+
+- AI-powered Recipe Recommendation System
+- Personalized Recipe Suggestions
+- Prompt Engineering Applications
+
+---
+
+### 🌐 Personal Portfolio Website
+
+**HTML | CSS | JavaScript**
+
+- Responsive Portfolio Website
+- Project Showcase
+- Skills and Experience Display
+
+---
+
+## 🎯 Areas of Interest
+
+- Data Science
+- Data Analytics
+- Business Intelligence
+- Dashboard Development
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Computer Vision
+- Financial Analytics
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tensorflow,opencv,mongodb,nodejs,react,git,github,vscode" />
 </p>
 
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minakshi-kaushik&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minakshi-kaushik&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 📫 Let's Connect!
+## 🔥 GitHub Streak
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/minakshi-kaushik-491487327)  
-- 📧 Email: **minakshikaushik22122005@gmail.com**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Minakshi-kaushik&theme=tokyonight" />
+</p>
 
 ---
 
-> *“The best way to predict the future is to create it.” – Peter Drucker*
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minakshi-kaushik&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Minakshi-kaushik&theme=tokyonight&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** minakshi241btcse24@igdtuw.ac.in
+
+💼 **LinkedIn:** https://www.linkedin.com/in/minakshi-kaushik-0a031a290
+
+🌐 **GitHub:** https://github.com/Minakshi-kaushik
+
+---
+
+## ✨ Quote
+
+> *"Learning by building, improving through consistency."*
